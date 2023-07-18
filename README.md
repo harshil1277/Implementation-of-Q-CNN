@@ -7,3 +7,6 @@ By harnessing the power of quantum computing, the Q-CNN model aims to achieve su
 
 
 This project involves designing and training the Q-CNN architecture, optimizing quantum algorithms for efficient computations, and evaluating its performance against classical CNN models to demonstrate the potential of quantum-enhanced image recognition.
+
+
+Used pennylane libraby for Quantum Calculations.
